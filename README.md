@@ -117,14 +117,14 @@ plt.ylabel('N')
 
 ```
 
-<img src="Geos4.png" width = "800" height = "540">
+<img src="Geos4.png" width = "800" height = "340">
 
 <img src="Geos5.png" width = "500" height = "340">
 
 #### Changing Seed Number
 Seed =1000
 
-<img src="Geos6.png" width = "800" height = "540">
+<img src="Geos6.png" width = "800" height = "340">
 <img src="Geos7.png" width = "500" height = "340">
 The results of realization number 2 with seed number = 1000
 
@@ -150,6 +150,6 @@ GSLIB.locpix(cond_Tip_sim, xmin, xmax, ymin, ymax, cell_size, Tip_cmin, Tip_cmax
 
 ```
 
-<img src="Geos8.png" width = "800" height = "740">
+<img src="Geos8.png" width = "800" height = "340">
 <img src="Geos9.png" width = "500" height = "340">
 The result of Avraging 300 realizations
