@@ -3,11 +3,6 @@
 Here we create a 2D model using CPT data in 6 locations. The raw tip resistance is used to develop the model. 
 
 
-```python
-import numpy as np
-import pandas as pd
-```
-
 ### Loading Data
 
 
